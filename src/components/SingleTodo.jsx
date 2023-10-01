@@ -20,6 +20,8 @@ const SingleTodo = ({
     window.location.reload();
   }
 
+  console.log(checked);
+
   return (
     <div
       className={`single-todo flex justify-between items-center mx-4 my-1 rounded-md border-r-2 p-2 bg-slate-700 ${
@@ -36,6 +38,7 @@ const SingleTodo = ({
             <p className='text-xs mt-2'>{item.formattedTimestamp}</p>
           </div>
           <button
+            disabled={checked}
             className='hover:text-cyan-500 transition-colors p-1 '
             onClick={() => setEditTodo(!editTodo)}
           >

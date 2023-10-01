@@ -20,8 +20,6 @@ const SingleTodo = ({
     window.location.reload();
   }
 
-  console.log(checked);
-
   return (
     <div
       className={`single-todo flex justify-between items-center mx-4 my-1 rounded-md border-r-2 p-2 bg-slate-700 ${

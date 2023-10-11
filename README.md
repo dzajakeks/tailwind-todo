@@ -1,8 +1,25 @@
-# React + Vite
+# TailwindTodo
+Wanted a project where I can practice Tailwind. (TodoApp.. wow)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Preview](#preview)
+- [About](#about)
+- [Installing](#installing)
+- [Contributing](#contributing)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
+![Untitled video - Made with Clipchamp](https://github.com/dzajakeks/tailwind-todo/assets/83473422/1a02ad19-2349-4236-9e20-1323dab90141)
+
+## About
+Included Time and Date of the created items.
+Project styled using Tailwind. Items are stored in localStorage, can Add, Edit, Delete.
+
+## Installing
+- Download ZIP
+- Extract the package
+- Open the 'tailwind-todo-main' in your IDE
+- In terminal run 'npm install' and 'npm run dev'
+
+## Contributing
+dzajakeks

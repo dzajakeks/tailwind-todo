@@ -1,5 +1,6 @@
 # TailwindTodo
 Wanted a project where I can practice Tailwind. (TodoApp.. wow)
+Included DaisyUI
 
 ## Table of Contents
 

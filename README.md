@@ -1,6 +1,6 @@
 # TailwindTodo
-Wanted a project where I can practice Tailwind. (TodoApp.. wow)
-Included DaisyUI
+Wanted a project where I can practice Tailwind. (TodoApp.. wow),
+Included DaisyUI. https://todo-tailwind-app.netlify.app
 
 ## Table of Contents
 
